@@ -1,8 +1,8 @@
 # pluralsight-js-dev-env
 JavaScript Development Environment from Pluralsight Course with Cory House
 
-* Editors
-VSCode from Microsoft
+## Editors
+* VSCode from Microsoft
 
 ## Linting
 * ESLint 
@@ -18,6 +18,6 @@ VSCode from Microsoft
 ### Where to Run Tests
 * Node
 ### Where to Place Tests
-* Alongside source code
+* Alongside source code by naming each of the tests with the suffix *.test.js
 ### When to Run Tests
 * Everytime we hit save
