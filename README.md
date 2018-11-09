@@ -21,3 +21,6 @@ JavaScript Development Environment from Pluralsight Course with Cory House
 * Alongside source code by naming each of the tests with the suffix *.test.js
 ### When to Run Tests
 * Everytime we hit save
+
+## HTTP Calls
+* Fetch
